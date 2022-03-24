@@ -1,5 +1,5 @@
 export const userInitialState = {
-  name: "Felipe",
+  name: "Lucas",
   idade: 26,
 };
 
